@@ -50,7 +50,7 @@
 		"tinyurl": "^1.1.7",
 		"totp-generator": "^0.0.13",
 		"websocket-stream": "^5.5.2",
-		"mongodb": "^0.8.0"
+		"mongodb": "6.16.0"
 	},
 	"scripts": {
 		"start": "set NODE_ENV=&& node index.js",
