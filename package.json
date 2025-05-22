@@ -51,8 +51,10 @@
 		"totp-generator": "^0.0.13",
 		"websocket-stream": "^5.5.2",
 		"mongodb": "6.16.0",
-		"docdash": "^2.0.2",
-		"btch-downloader": "^4.0.9"
+		"crypto": "^1.0.1",
+		"fake-useragent": "^1.0.1",
+		"file-type": "^16.5.3",
+		"node-fetch": "^2.6.1"
 	},
 	"scripts": {
 		"start": "set NODE_ENV=&& node index.js",
